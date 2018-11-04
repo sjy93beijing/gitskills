@@ -1,2 +1,2 @@
 # gitskills
-Git is free software 
+Git is free distributed software 
